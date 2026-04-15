@@ -17,9 +17,7 @@ This is Product-and-Service-Based-Company Website Template. I am make Following 
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Product-and-Service-Based-Company/
-
-**Website View** - https://designcraft.odoo.com/product-and-service-based-company
+**Live Demo** - https://AbdullahZaheer1.github.io/Product-and-Service-Based-Company/
 
 # CodeCraft-Beta
 
@@ -33,7 +31,7 @@ Thankyou.
 
 # Join Us
 
-**GitHub** - https://github.com/CodeCraft-Beta
+**GitHub** - https://github.com/AbdullahZaheer1
 
 **YouTube** - https://www.youtube.com/@codecraftchannal
 
@@ -44,8 +42,6 @@ Thankyou.
 **Instagram** - https://www.instagram.com/codecraft147/
 
 **TikTok** - https://www.tiktok.com/@codecraft147
-
-**Website** - https://designcraft.odoo.com/
 
 # Introduction
 
